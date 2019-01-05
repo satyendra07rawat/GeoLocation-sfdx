@@ -12,8 +12,8 @@
 
 ## Git Command
 
-git init
-git add .
+git init<br/>
+git add .<br/>
 git commit -m "initial commit"
 git remote add origin https://github.com/satyendra07rawat/GeoLocation-sfdx.git
 git push -u origin master
